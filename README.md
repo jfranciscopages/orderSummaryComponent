@@ -89,3 +89,16 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀 -->
+
+# Order Summary Component
+
+A responsive order summary. This page was built as a front-end project of [Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
+
+- [Page](https://jfranciscopages.github.io/orderSummaryComponent/) - Final result of the project
+
+
+## Built with
+- [HTML5](https://developer.mozilla.org/es/docs/HTML/HTML5)
+- [CSS3](https://developer.mozilla.org/es/docs/Web/CSS/CSS3)
+- [Sass](https://sass-lang.com/)
+- [Github Pages](https://pages.github.com/)
